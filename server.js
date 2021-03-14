@@ -2,7 +2,7 @@ const {joinImages} = require('join-images');
 const express = require('express')
 const app = express()
 const port =  process.env.PORT || 3000
-const imgPath = __dirname + '/babyyoda.png'
+const imgPath = __dirname + '/grogu.png'
 
 app.get('/:length', (req, res) => {
     const length = req.params.length;
