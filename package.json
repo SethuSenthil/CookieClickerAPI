@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "join-images": "^0.2.5",
+    "tslib": "^2.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cookieclickerapi",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Sethu Narayan Senthil <code@sethusenthil.com> (https://sethusenthil.com/)",
+  "license": "ISC",
+  "description": ""
+}
